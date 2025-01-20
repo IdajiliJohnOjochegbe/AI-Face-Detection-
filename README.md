@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
 
 Clone the repository
 
-git clone https://github.com/yourusername/aiface-detection.git
+git clone https://github.com/IdajiliJohnOjochegbe/AI-Face-Detection.git
 
 Navigate to the project directory:
 
